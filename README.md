@@ -3,7 +3,6 @@
     🚀 Passionate about technology, web development, and exploring innovative ideas.<br>
     🌱 Currently enhancing my skills in programming and web development.<br>
     💻 Open to collaboration on exciting projects related to web development and coding tools.<br>
-    📫 How to reach me: <a href="https://www.linkedin.com/in/suryanshu-nabheet/" target="_blank">LinkedIn Profile</a><br>
     😄 Pronouns: He/Him<br>
     ⚡ Fun fact: I'm an 8th grader already diving deep into coding!
 </p>
