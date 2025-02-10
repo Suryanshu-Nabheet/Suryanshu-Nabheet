@@ -78,7 +78,8 @@
 
 
 ## ⭐ Fun fact
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0077FF&center=true&vCenter=true&width=435&lines=Always+curious%2C+always+learning!" alt="Fun Fact Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0077FF&center=true&vCenter=true&width=700&lines=Always+Curious+|+Lifelong+Learner!;Tech+Enthusiast+|+Goal-Oriented!;Self-Driven+|+Versatile+Developer!;Creative+Mind+|+Hands-On+Coder!;Future+Visionary+|+Innovative+Thinker!" alt="Key Facts Typing" />
+
 
 ## 🔥 Let's build something amazing together!
 
