@@ -41,8 +41,7 @@
   </a>
 </div>
 
-<!-- 3D Contribution Calendar -->
-<img src="https://raw.githubusercontent.com/Suryanshu-Nabheet/Suryanshu-Nabheet/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
+
 
 <!-- Animated Activity Graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
