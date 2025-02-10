@@ -75,8 +75,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Suryanshu-Nabheet&theme=discord&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy" />
 </p>
 
-<!-- Metrics -->
-<img src="https://metrics.lecoq.io/Suryanshu-Nabheet?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata" alt="Detailed Github Achievements" />
+
 
 ## ⭐ Fun fact
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0077FF&center=true&vCenter=true&width=435&lines=Always+curious%2C+always+learning!" alt="Fun Fact Typing" />
