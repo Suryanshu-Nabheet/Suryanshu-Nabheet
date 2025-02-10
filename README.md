@@ -65,15 +65,12 @@
 <!-- Animated Stats Cards -->
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suryanshu-Nabheet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suryanshu-Nabheet&theme=tokyonight&hide_border=true&background=0d1117" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suryanshu-Nabheet&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryanshu-Nabheet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Most Used Languages" />
 
-<!-- Animated Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suryanshu-Nabheet&theme=discord&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy" />
-</p>
+
 
 
 
