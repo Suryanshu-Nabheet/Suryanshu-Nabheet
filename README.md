@@ -1,6 +1,8 @@
-<div align="center">
+<div align="center" style="background-color: #0d1117; color: white; padding: 20px;">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Hi%20👋,%20I'm%20Suryanshu%20Nabheet&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0:1e00ff,100:0077ff&height=300&section=header&text=Hi%20👋,%20I'm%20Suryanshu%20Nabheet&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Passionate%20Developer%20|%208th%20Grade%20Coder&descAlignY=55)
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 🚀 Passionate about **technology, web development**, and exploring innovative ideas.
 
@@ -16,35 +18,33 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suryanshu-nabheet/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Suryanshu-Nabheet" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suryanshu-Nabheet&bg_color=0d1117&color=1e00ff&line=0077ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+
 ## 🚀 Tech Stack
 
- <h4>Frontend Development</h4>
-        <div class="tech-stack">
-            <a href="https://reactjs.org/" target="_blank">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50">
-            </a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50">
-            </a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50">
-            </a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
-            </a>
-        </div>
+### Frontend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryanshu-Nabheet&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryanshu-Nabheet&layout=compact&theme=radical&bg_color=0d1117&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Suryanshu-Nabheet&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy" />
 </p>
 
 ## ⭐ Fun fact
@@ -52,6 +52,6 @@ Always curious, always learning!
 
 ## 🔥 Let's build something amazing together!
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:1e00ff&height=120&section=footer)
 
 </div>
