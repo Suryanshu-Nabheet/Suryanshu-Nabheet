@@ -24,17 +24,6 @@
 
 ### 🌌 Neural Interface: System Overview
 
-<div style="margin: 25px 0">
-
-```ascii
-╔══════════════════════════════════════════╗
-║ STATUS: ONLINE                           ║
-║ CORE FUNCTIONS: OPERATIONAL              ║
-║ INNOVATION INDEX: MAXIMIZED              ║
-║ LEARNING PROTOCOLS: ACTIVE               ║
-╚══════════════════════════════════════════╝
-```
-
 🧠 **Core Processor:** Specialized in **quantum algorithms** and **neural networks**
 
 🌐 **Network Status:** Actively expanding knowledge bases in **programming** and **cybersecurity**
@@ -97,18 +86,23 @@
 
 #### 🏆 Certifications & Achievements
 
-- 🥇 **Advanced Web Development** - FreeCodeCamp
-- 🌟 **Python Programming** - Coursera
-- ⚡ **JavaScript Algorithms** - HackerRank
-- 🛡️ **Cybersecurity Fundamentals** - Cisco
-- 🤖 **AI & ML Foundations** - Google
+- 📜 **Web Development** - Microsoft Learn Student Ambassadors  
+- 📜 **Web Development Workshop** - Microsoft Learn Student Ambassador  
+- 📜 **Google Ads for Beginners** - Coursera  
+- 📜 **Business Analysis & Process Management** - Coursera  
+- 📜 **Coding Essentials: Learn Logic Building for Beginners** - Scaler  
+- 📜 **Build a Full Website using WordPress** - Coursera  
+- 📜 **Build a Computer Vision App with Azure Cognitive Services** - Microsoft  
+- 📜 **Build a Free Website with WordPress** - Coursera  
+- 📜 **Introduction to Basic Game Development using Scratch** - Coursera  
+- 📜 **Introduction to Microsoft Excel** - Coursera 
 
 #### 🚀 Project Milestones
 
-- 💫 **10+** Completed Projects
-- 🌍 **5+** Open Source Contributions
-- 🔥 **1000+** Hours of Coding
-- 📊 **500+** Problem Solutions
+- 💫 **10+** Completed Projects  
+- 🛠 **Major Projects:**  
+  - **MMBS Website Project** – A robust and scalable **Multi-Model Booking System** designed to manage various booking categories efficiently.  
+  - **Groww Website Project** – A stock market and SIP investment platform providing real-time financial insights and investment tracking.  
 
 </div>
 
@@ -153,14 +147,6 @@
 
 ## 🚀 Initialize Collaboration Protocol
 
-```ascii
-╔══════════════════════════════════════════╗
-║ COLLABORATION STATUS: READY              ║
-║ INNOVATION PORTAL: OPEN                  ║
-║ SYNERGY POTENTIAL: MAXIMUM              ║
-║ AWAITING NEURAL HANDSHAKE...            ║
-╚══════════════════════════════════════════╝
-```
 
 </div>
 
