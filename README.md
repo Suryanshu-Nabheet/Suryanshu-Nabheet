@@ -115,7 +115,7 @@
   <a href="https://github.com/Suryanshu-Nabheet" target="_blank" style="margin: 0 10px">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white&color=000000" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@domain.com" target="_blank" style="margin: 0 10px">
+  <a href="mailto:suryanshunab@gmail.com" target="_blank" style="margin: 0 10px">
     <img src="https://img.shields.io/badge/Email-Contact-%23000080.svg?&style=for-the-badge&logoColor=white" alt="Email" />
   </a>
 </div>
