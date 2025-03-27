@@ -137,6 +137,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryanshu-Nabheet&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=0077ff&text_color=0077ff" alt="Most Used Languages" />
 </div>
 
+
+<!-- Trophies - Single Row -->
+<div style="margin: 20px 0">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Suryanshu-Nabheet&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10" />
+</div>
+
 <h2 style="margin: 50px 0 30px; background: linear-gradient(45deg, #000000, #000080, #0077ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">🌌 Quantum Characteristics</h2>
 
 <div style="margin: 30px 0">
@@ -144,6 +150,7 @@
 </div>
 
 <div style="background: linear-gradient(135deg, #00000080, #00008080); padding: 35px; border-radius: 20px; margin: 50px 0; box-shadow: 0 0 30px rgba(0,119,255,0.2); backdrop-filter: blur(10px); border: 1px solid rgba(0,119,255,0.1)">
+
 
 ## 🚀 Initialize Collaboration Protocol
 
