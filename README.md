@@ -1,7 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:000080,100:0077ff&height=180&section=header&text=Suryanshu%20Nabheet&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=50)
-
+![Header](https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:000080,100:0077ff&height=180&section=header&text=Suryanshu%20Nabheet&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50)
 
 <div style="margin: 40px 0">
   <a href="https://git.io/typing-svg">
