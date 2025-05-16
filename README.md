@@ -191,9 +191,11 @@
 
 
 <!-- Trophies - Single Row -->
-<div style="margin: 20px 0">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Suryanshu-Nabheet&theme=algolia&no-frame=true&column=6&margin-w=10&margin-h=10" />
-</div>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Suryanshu-Nabheet&theme=algolia&no-frame=true&margin-w=15" />
+</p>
 
 <h2 style="color: #FFFFFF; background: linear-gradient(45deg, #0077FF, #FFFFFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 5px #0077FF; margin: 50px 0 30px;">🌌 QUANTUM CHARACTERISTICS</h2>
 
