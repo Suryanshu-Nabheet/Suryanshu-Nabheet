@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:000080,100:0077ff&height=300&section=header&text=Suryanshu%20Nabheet&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Quantum%20Developer%20|%20Future%20Tech%20Pioneer%20|%209th%20Grade%20Innovator&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:000080,100:0077ff&height=300&section=header&text=Suryanshu%20Nabheet&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50)
+
 
 <div style="margin: 40px 0">
   <a href="https://git.io/typing-svg">
