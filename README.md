@@ -181,9 +181,20 @@
 <h2 style="color: #FFFFFF; background: linear-gradient(45deg, #0077FF, #FFFFFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 5px #0077FF; margin: 50px 0 30px;">📊 SYSTEM ANALYTICS</h2>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0">
-  <img width="49%" style="margin-bottom: 20px" src="https://github-readme-stats.vercel.app/api?username=Suryanshu-Nabheet&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=0077FF&icon_color=FFFFFF&text_color=FFFFFF" />
-  <img width="49%" style="margin-bottom: 20px" src="https://streak-stats.demolab.com?user=Suryanshu-Nabheet&theme=dark&hide_border=true&background=000000&stroke=0077FF&ring=0077FF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0077FF&sideLabels=0077FF&dates=0077FF" />
+  <img 
+    width="49%" 
+    style="margin-bottom: 20px" 
+    src="https://github-readme-stats.vercel.app/api?username=Suryanshu-Nabheet&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=0077FF&icon_color=FFFFFF&text_color=FFFFFF" 
+    alt="GitHub Stats"
+  />
+  <img 
+    width="49%" 
+    style="margin-bottom: 20px" 
+    src="https://streak-stats.demolab.com?user=Suryanshu-Nabheet&theme=dark&hide_border=true&background=000000&stroke=0077FF&ring=0077FF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0077FF&sideLabels=0077FF&dates=0077FF" 
+    alt="GitHub Streak"
+  />
 </div>
+
 
 <div style="margin: 40px 0">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryanshu-Nabheet&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=0077FF&text_color=FFFFFF" alt="Most Used Languages" />
