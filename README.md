@@ -184,13 +184,13 @@
   <img 
     width="49%" 
     style="margin-bottom: 20px" 
-    src="https://github-readme-stats.vercel.app/api?username=Suryanshu-Nabheet&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=0077FF&icon_color=FFFFFF&text_color=FFFFFF" 
+    src="https://github-readme-stats.vercel.app/api?username=Suryanshu-Nabheet&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=0077FF&icon_color=FFFFFF&text_color=FFFFFF&v=2" 
     alt="GitHub Stats"
   />
   <img 
     width="49%" 
     style="margin-bottom: 20px" 
-    src="https://streak-stats.demolab.com?user=Suryanshu-Nabheet&theme=dark&hide_border=true&background=000000&stroke=0077FF&ring=0077FF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0077FF&sideLabels=0077FF&dates=0077FF" 
+    src="https://streak-stats.demolab.com?user=Suryanshu-Nabheet&theme=dark&hide_border=true&background=000000&stroke=0077FF&ring=0077FF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0077FF&sideLabels=0077FF&dates=0077FF&v=2" 
     alt="GitHub Streak"
   />
 </div>
