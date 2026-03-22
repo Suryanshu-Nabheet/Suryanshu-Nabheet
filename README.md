@@ -26,15 +26,15 @@
 
 ### <span style="color: #FFFFFF; text-shadow: 0 0 5px #0077FF;">🌌 NEURAL INTERFACE: SYSTEM OVERVIEW</span>
 
-🧠 <span style="color: #FFFFFF;">**Quantum Core:** Optimized for **<span style="color: #0077FF;">Full Stack Development</span>**, **<span style="color: #0077FF;">AI/ML Integration</span>**, and **<span style="color: #0077FF;">Blockchain Architecture</span>**</span>  
+🧠 <span style="color: #FFFFFF;">**Quantum Core:** Optimized for **<span style="color: #0077FF;">Full Stack Development</span>**, **<span style="color: #0077FF;">AI/ML Integration</span>**, and **<span style="color: #0077FF;">Blockchain Architecture</span>**</span>
 
-🌐 <span style="color: #FFFFFF;">**Network Protocol:** Continuously expanding neural pathways in **<span style="color: #0077FF;">Frontend Rendering</span>**, **<span style="color: #0077FF;">Backend Processing</span>**, **<span style="color: #0077FF;">Cybersecurity Protocols</span>**, and **<span style="color: #0077FF;">Cloud Orchestration</span>**</span>  
+🌐 <span style="color: #FFFFFF;">**Network Protocol:** Continuously expanding neural pathways in **<span style="color: #0077FF;">Frontend Rendering</span>**, **<span style="color: #0077FF;">Backend Processing</span>**, **<span style="color: #0077FF;">Cybersecurity Protocols</span>**, and **<span style="color: #0077FF;">Cloud Orchestration</span>**</span>
 
-⚡ <span style="color: #FFFFFF;">**Fusion Reactor:** Powered by **<span style="color: #0077FF;">algorithmic innovation</span>**, **<span style="color: #0077FF;">quantum creativity</span>**, and **<span style="color: #0077FF;">multi-dimensional problem-solving</span>**</span>  
+⚡ <span style="color: #FFFFFF;">**Fusion Reactor:** Powered by **<span style="color: #0077FF;">algorithmic innovation</span>**, **<span style="color: #0077FF;">quantum creativity</span>**, and **<span style="color: #0077FF;">multi-dimensional problem-solving</span>**</span>
 
-🔮 <span style="color: #FFFFFF;">**Temporal Projection:** Pioneering the next evolution of **<span style="color: #0077FF;">Digital Reality</span>**, **<span style="color: #0077FF;">Artificial Intelligence</span>**, and **<span style="color: #0077FF;">Decentralized Systems</span>**</span>  
+🔮 <span style="color: #FFFFFF;">**Temporal Projection:** Pioneering the next evolution of **<span style="color: #0077FF;">Digital Reality</span>**, **<span style="color: #0077FF;">Artificial Intelligence</span>**, and **<span style="color: #0077FF;">Decentralized Systems</span>**</span>
 
-🎯 <span style="color: #FFFFFF;">**Prime Directive:** Engineering **<span style="color: #0077FF;">hyper-efficient solutions</span>** that transcend conventional digital paradigms 🚀</span>  
+🎯 <span style="color: #FFFFFF;">**Prime Directive:** Engineering **<span style="color: #0077FF;">hyper-efficient solutions</span>** that transcend conventional digital paradigms 🚀</span>
 
 </div>
 </div>
@@ -44,6 +44,7 @@
 <div style="background: rgba(0,0,0,0.5); padding: 35px; border-radius: 20px; margin: 30px 0; border: 1px solid #0077ff">
 
 #### <span style="color: #0077FF;">🔵 PROGRAMMING LANGUAGES</span>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript%20ES6+-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
 ![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=%233776AB)
@@ -54,6 +55,7 @@
 ![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=%234EAA25)
 
 #### <span style="color: #0077FF;">🔵 DATABASE SYSTEMS</span>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23000000.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=%234169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=%234479A1)
@@ -63,6 +65,7 @@
 ![PlanetScale](https://img.shields.io/badge/PlanetScale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=%23FFFFFF)
 
 #### <span style="color: #0077FF;">🔵 FRONTEND ARCHITECTURE</span>
+
 ![React](https://img.shields.io/badge/React.js-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js_Advanced-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%23000000.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
@@ -73,6 +76,7 @@
 ![WebRTC](https://img.shields.io/badge/WebRTC-%23000000.svg?style=for-the-badge&logo=webrtc&logoColor=%23333333)
 
 #### <span style="color: #0077FF;">🔵 SYSTEM DESIGN PROTOCOLS</span>
+
 ![Load Balancing](https://img.shields.io/badge/Load_Balancing-%23000000.svg?style=for-the-badge&logo=nginx&logoColor=%23009639)
 ![Caching](https://img.shields.io/badge/Caching-%23000000.svg?style=for-the-badge&logo=redis&logoColor=%23DC382D)
 ![Queues](https://img.shields.io/badge/Queues-%23000000.svg?style=for-the-badge&logo=rabbitmq&logoColor=%23FF6600)
@@ -80,6 +84,7 @@
 ![Scaling](https://img.shields.io/badge/Scaling-%23000000.svg?style=for-the-badge&logo=kubernetes&logoColor=%23326CE5)
 
 #### <span style="color: #0077FF;">🔵 BACKEND INFRASTRUCTURE</span>
+
 ![Node.js](https://img.shields.io/badge/Node.js_Advanced-%23000000.svg?style=for-the-badge&logo=node.js&logoColor=%23339933)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23000000.svg?style=for-the-badge&logo=django&logoColor=%23092E20)
@@ -93,6 +98,7 @@
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-%23000000.svg?style=for-the-badge&logo=drizzle&logoColor=%23FFFFFF)
 
 #### <span style="color: #0077FF;">🔵 WEB3 QUANTUM FIELD</span>
+
 ![Ethereum](https://img.shields.io/badge/Ethereum_DApps-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=%233C3C3D)
 ![Solana](https://img.shields.io/badge/Solana_DApps-%23000000.svg?style=for-the-badge&logo=solana&logoColor=%23000000)
 ![EVM](https://img.shields.io/badge/EVM-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=%233C3C3D)
@@ -102,6 +108,7 @@
 ![Web2-Web3 Bridge](https://img.shields.io/badge/Web2--Web3_Bridge-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=%23375BD2)
 
 #### <span style="color: #0077FF;">🔵 TOOLS & PROTOCOLS</span>
+
 ![Git](https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=%23F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-%23000000.svg?style=for-the-badge&logo=turborepo&logoColor=%23EF4444)
@@ -116,6 +123,7 @@
 ![Swagger](https://img.shields.io/badge/Swagger-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=%2385EA2D)
 
 #### <span style="color: #0077FF;">🔵 DEVOPS & CLOUD MATRIX</span>
+
 ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=%23FCC624)
 ![Docker](https://img.shields.io/badge/Docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=%232496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23000000.svg?style=for-the-badge&logo=kubernetes&logoColor=%23326CE5)
@@ -138,23 +146,15 @@
 
 #### <span style="color: #0077FF;">🏆 CERTIFICATIONS & ACHIEVEMENTS</span>
 
-- <span style="color: #FFFFFF;">📜 **Web Development** - Microsoft Learn Student Ambassadors</span>  
-- <span style="color: #FFFFFF;">📜 **Web Development Workshop** - Microsoft Learn Student Ambassador</span>  
-- <span style="color: #FFFFFF;">📜 **Google Ads for Beginners** - Coursera</span>  
-- <span style="color: #FFFFFF;">📜 **Business Analysis & Process Management** - Coursera</span>  
-- <span style="color: #FFFFFF;">📜 **Coding Essentials: Learn Logic Building for Beginners** - Scaler</span>  
-- <span style="color: #FFFFFF;">📜 **Build a Full Website using WordPress** - Coursera</span>  
-- <span style="color: #FFFFFF;">📜 **Build a Computer Vision App with Azure Cognitive Services** - Microsoft</span>  
-- <span style="color: #FFFFFF;">📜 **Build a Free Website with WordPress** - Coursera</span>  
-- <span style="color: #FFFFFF;">📜 **Introduction to Basic Game Development using Scratch** - Coursera</span>  
-- <span style="color: #FFFFFF;">📜 **Introduction to Microsoft Excel** - Coursera</span> 
-
-#### <span style="color: #0077FF;">🚀 PROJECT MILESTONES</span>
-
-- <span style="color: #FFFFFF;">💫 **10+** Completed Digital Constructs</span>  
-- <span style="color: #FFFFFF;">🛠 **Major Neural Networks:**</span>  
-  - <span style="color: #FFFFFF;">**MMBS Quantum Interface** – A multi-dimensional **<span style="color: #0077FF;">Multi-Model Booking System</span>** engineered with advanced temporal-spatial algorithms for cross-category resource allocation.</span>  
-  - <span style="color: #FFFFFF;">**Groww Financial Matrix** – A hyper-connected stock market and SIP investment neural network providing quantum-speed financial data processing and predictive investment analytics.</span>  
+- <span style="color: #FFFFFF;">📜 **Web Development** - Microsoft Learn Student Ambassadors</span>
+- <span style="color: #FFFFFF;">📜 **Google Ads for Beginners** - Coursera</span>
+- <span style="color: #FFFFFF;">📜 **Business Analysis & Process Management** - Coursera</span>
+- <span style="color: #FFFFFF;">📜 **Coding Essentials: Learn Logic Building for Beginners** - Scaler</span>
+- <span style="color: #FFFFFF;">📜 **Build a Full Website using WordPress** - Coursera</span>
+- <span style="color: #FFFFFF;">📜 **Build a Computer Vision App with Azure Cognitive Services** - Microsoft</span>
+- <span style="color: #FFFFFF;">📜 **Build a Free Website with WordPress** - Coursera</span>
+- <span style="color: #FFFFFF;">📜 **Introduction to Basic Game Development using Scratch** - Coursera</span>
+- <span style="color: #FFFFFF;">📜 **Introduction to Microsoft Excel** - Coursera</span>
 
 </div>
 
@@ -195,13 +195,12 @@
   />
 </div>
 
-
 <div style="margin: 40px 0">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryanshu-Nabheet&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=0077FF&text_color=FFFFFF" alt="Most Used Languages" />
 </div>
 
-
 <!-- Trophies - Single Row -->
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
