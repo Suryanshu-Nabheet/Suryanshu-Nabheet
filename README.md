@@ -8,7 +8,7 @@
 
 <kbd>ABOUT</kbd>
 
-Full-stack developer building scalable MERN/PERN web apps and AI systems — clean architecture, LLMs, and agentic tools. **Google Cloud Build with AI 2026 Patna Regional Winner · Top 5 National Grand Finalist · Founder @ InnovateX.** Open to collaborations in AI, developer tools, and production-ready platforms.
+Full-stack developer building scalable MERN/PERN web apps and AI systems — clean architecture, LLMs, and agentic tools. **Google Cloud Build with AI 2026 Patna Regional Winner · National Grand Finale Winner, Google Cloud Build with AI: Agentic Premier League 2026 · Founder @ InnovateX.** Open to collaborations in AI, developer tools, and production-ready platforms.
 
 ---
 
